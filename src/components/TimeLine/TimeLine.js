@@ -48,7 +48,7 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Hello my name is Faizan, I'm an aspiring Full Stack Web Developer specializing in building exceptional digital experiences. <br />
+      Hello my name is Venkatesh, I'm an aspiring Full Stack Web Developer specializing in building exceptional digital experiences. <br />
       I am a technology enthusiast who is always eager to learn new things, and looking for an organization that will help me enhance my skill set, knowledge and to work for the best interest of the organization. I am an ardent learner and possess good communication skills with a passion to be a part of a dynamic team that works towards the achievement of organization goal.
       </SectionText>
       <CarouselContainer ref = {carouselRef} onScroll = {handleScroll}>
